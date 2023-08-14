@@ -15,6 +15,7 @@ def calculator():
     print("3. Multiplication")
     print("4. Division")
 
+    
     choice = input("Enter the operation number (1/2/3/4): ")
 
     num1 = float(input("Enter the first number: "))
